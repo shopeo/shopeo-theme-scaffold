@@ -1,0 +1,1 @@
+# Shopeo Theme Scaffold
