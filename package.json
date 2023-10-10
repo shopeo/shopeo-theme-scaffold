@@ -1,0 +1,10 @@
+{
+  "name": "shopeo-theme-scaffold",
+  "version": "0.0.1",
+  "description": "SHOPEO Theme Scaffold",
+  "scripts": {
+  },
+  "author": "SHOPEO",
+  "homepage": "https://shopeo.cn",
+  "license": "MIT"
+}
