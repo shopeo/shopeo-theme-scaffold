@@ -1,9 +1,9 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./assets/src/js/app.js":
+/***/ "./src/assets/js/app.js":
 /*!******************************!*\
-  !*** ./assets/src/js/app.js ***!
+  !*** ./src/assets/js/app.js ***!
   \******************************/
 /***/ (() => {
 
@@ -11,9 +11,9 @@
 
 /***/ }),
 
-/***/ "./assets/src/scss/style.scss":
+/***/ "./src/assets/scss/style.scss":
 /*!************************************!*\
-  !*** ./assets/src/scss/style.scss ***!
+  !*** ./src/assets/scss/style.scss ***!
   \************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -24,9 +24,9 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./assets/src/scss/style-rtl.scss":
+/***/ "./src/assets/scss/style-rtl.scss":
 /*!****************************************!*\
-  !*** ./assets/src/scss/style-rtl.scss ***!
+  !*** ./src/assets/scss/style-rtl.scss ***!
   \****************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -175,9 +175,9 @@ __webpack_require__.r(__webpack_exports__);
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	__webpack_require__.O(undefined, ["style-rtl","style"], () => (__webpack_require__("./assets/src/js/app.js")))
-/******/ 	__webpack_require__.O(undefined, ["style-rtl","style"], () => (__webpack_require__("./assets/src/scss/style.scss")))
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["style-rtl","style"], () => (__webpack_require__("./assets/src/scss/style-rtl.scss")))
+/******/ 	__webpack_require__.O(undefined, ["style-rtl","style"], () => (__webpack_require__("./src/assets/js/app.js")))
+/******/ 	__webpack_require__.O(undefined, ["style-rtl","style"], () => (__webpack_require__("./src/assets/scss/style.scss")))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["style-rtl","style"], () => (__webpack_require__("./src/assets/scss/style-rtl.scss")))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()
