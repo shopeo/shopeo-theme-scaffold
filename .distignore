@@ -3,6 +3,7 @@
 /.github
 /node_modules
 /src/assets
+/.wordpress-org/README.md
 .distignore
 .gitignore
 .editorconfig
@@ -13,3 +14,4 @@ package.json
 package-lock.json
 composer.json
 composer-lock.json
+
