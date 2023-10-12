@@ -4,6 +4,7 @@
 /node_modules
 /src/assets
 /.wordpress-org/README.md
+/languages/README.md
 .distignore
 .gitignore
 .editorconfig
