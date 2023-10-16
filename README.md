@@ -2,10 +2,10 @@
 
 ## Features
 
-- pnpm
-- composer
-- laravel-mix
-- scss
-- postcss
-- autoprefixer
-- rtlcss
+[x] npm
+[x] composer
+[x] laravel-mix
+[x] scss
+[x] postcss
+[x] autoprefixer
+[x] rtlcss
