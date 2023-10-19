@@ -10,3 +10,7 @@
 - [x] autoprefixer
 - [x] rtlcss
 - [ ] jquery
+
+
+
+https://github.com/TGMPA/TGM-Plugin-Activation
