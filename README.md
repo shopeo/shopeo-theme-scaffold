@@ -9,3 +9,4 @@
 - [x] postcss
 - [x] autoprefixer
 - [x] rtlcss
+- [ ] jquery
