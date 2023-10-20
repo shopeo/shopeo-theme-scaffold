@@ -9,7 +9,7 @@
 - [x] postcss
 - [x] autoprefixer
 - [x] rtlcss
-- [ ] jquery
+- [x] jquery
 
 ## Depend Tools
 
