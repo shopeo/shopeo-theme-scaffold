@@ -11,7 +11,7 @@
 - [x] rtlcss
 - [x] jquery
 - [x] editorconfig
-- [ ] wordpress/scripts
+- [x] wordpress scripts
 - [ ] style lint
 - [ ] es lint
 - [ ] Prettier
@@ -35,3 +35,6 @@ https://ocdi.com/quick-integration-guide/
 
 - https://wordpress.org/plugins/developers/readme-validator/
 - https://wpreadme.com/
+
+## WordPress Cli
+- https://wp-cli.org/
