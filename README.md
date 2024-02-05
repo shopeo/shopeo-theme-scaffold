@@ -10,6 +10,16 @@
 - [x] autoprefixer
 - [x] rtlcss
 - [x] jquery
+- [x] editorconfig
+- [ ] wordpress/scripts
+- [ ] style lint
+- [ ] es lint
+- [ ] Prettier
+- [ ] wp-readme-to-markdown
+- [ ] lint-staged
+- [ ] wp i18n
+- [ ] phpcs
+- [ ] phpunit
 
 ## Depend Tools
 
@@ -20,3 +30,8 @@
 ## One Click Demo Import
 
 https://ocdi.com/quick-integration-guide/
+
+## WP Readme
+
+- https://wordpress.org/plugins/developers/readme-validator/
+- https://wpreadme.com/
