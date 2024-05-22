@@ -17,7 +17,7 @@
 		"makepot": "wp i18n make-pot --domain='shopeo-theme-scaffold' --include='assets/js,*.php' . --headers='{\"Report-Msgid-Bugs-To\":\"https://shopeo.cn/contact/\"}' --file-comment=\"Copyright (c) $(date +'%Y') SHOPEO. All Rights Reserved.\" languages/shopeo-theme-scaffold.pot"
 	},
 	"lint-staged": {
-		"*.js": [
+		"src/assets/js/**/*.js": [
 			"npm run lint:js"
 		],
 		"*.scss": [
