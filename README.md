@@ -18,7 +18,7 @@
 - [x] wp-readme-to-markdown
 - [x] lint-staged
 - [x] husky
-- [ ] wp i18n
+- [x] wp i18n
 - [ ] phpcs
 - [ ] phpunit
 
@@ -28,6 +28,7 @@
 - https://developer.wordpress.org/themes/
 - https://github.com/TGMPA/TGM-Plugin-Activation
 - https://github.com/ediamin/wp-readme-to-markdown
+- https://developer.wordpress.org/cli/commands/i18n/make-pot/
 
 ## One Click Demo Import
 
@@ -41,6 +42,7 @@ https://ocdi.com/quick-integration-guide/
 ## WordPress Cli
 
 - https://wp-cli.org/
+- https://wp-kama.com/handbook/wp-cli/wp
 
 ## Related
 
