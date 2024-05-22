@@ -20,7 +20,7 @@
 - [x] husky
 - [x] wp i18n
 - [x] phpcs
-- [ ] phpunit
+- [x] phpunit
 
 ## Depend Tools
 
