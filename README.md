@@ -19,7 +19,7 @@
 - [x] lint-staged
 - [x] husky
 - [x] wp i18n
-- [ ] phpcs
+- [x] phpcs
 - [ ] phpunit
 
 ## Depend Tools

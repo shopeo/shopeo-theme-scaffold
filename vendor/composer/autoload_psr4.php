@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Shopeo\\ShopeoThemeScaffold\\' => array($baseDir . '/src'),
+    'PHPCSStandards\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\' => array($vendorDir . '/dealerdirect/phpcodesniffer-composer-installer/src'),
 );
