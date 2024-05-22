@@ -3,7 +3,7 @@
         'name' => 'shopeo/shopeo-theme-scaffold',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '01e70f5bd0a654befddc6c886c8245cbd6da875a',
+        'reference' => '2a779a2a4390d579150800f5f424303d098b1214',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -40,7 +40,7 @@
         'shopeo/shopeo-theme-scaffold' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '01e70f5bd0a654befddc6c886c8245cbd6da875a',
+            'reference' => '2a779a2a4390d579150800f5f424303d098b1214',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
