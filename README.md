@@ -8,14 +8,14 @@
 - [x] scss
 - [x] postcss
 - [x] autoprefixer
-- [x] rtlcss
+- [x] rtl css
 - [x] jquery
 - [x] editorconfig
-- [x] wordpress scripts
-- [ ] style lint
-- [ ] es lint
-- [ ] Prettier
-- [ ] wp-readme-to-markdown
+- [x] WordPress scripts
+- [x] Stylelint
+- [x] ESLint
+- [x] Prettier
+- [x] wp-readme-to-markdown
 - [ ] lint-staged
 - [ ] wp i18n
 - [ ] phpcs
@@ -26,6 +26,7 @@
 - https://developer.wordpress.org/
 - https://developer.wordpress.org/themes/
 - https://github.com/TGMPA/TGM-Plugin-Activation
+- https://github.com/ediamin/wp-readme-to-markdown
 
 ## One Click Demo Import
 
@@ -37,4 +38,11 @@ https://ocdi.com/quick-integration-guide/
 - https://wpreadme.com/
 
 ## WordPress Cli
+
 - https://wp-cli.org/
+
+## Related
+
+- https://developer.wordpress.org/themes/advanced-topics/build-process/
+- https://github.com/WordPress/gutenberg
+- https://prettier.io/
