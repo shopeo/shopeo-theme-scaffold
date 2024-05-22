@@ -16,7 +16,8 @@
 - [x] ESLint
 - [x] Prettier
 - [x] wp-readme-to-markdown
-- [ ] lint-staged
+- [x] lint-staged
+- [x] husky
 - [ ] wp i18n
 - [ ] phpcs
 - [ ] phpunit
