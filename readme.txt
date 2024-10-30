@@ -1,4 +1,4 @@
-=== {theme_name} ===
+=== Shopeo Theme Scaffold ===
 Contributors: SHOPEO
 Donate link: https://shopeo.cn/
 Requires at least: 5.9
